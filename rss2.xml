@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>在不停流动的时间的彼岸，愿我们何时何地都能相遇</description>
-    <pubDate>Tue, 22 Feb 2022 10:38:04 GMT</pubDate>
+    <pubDate>Tue, 22 Feb 2022 14:11:18 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,12 +20,14 @@
       
         
         
-      <description>&lt;h1 id=&quot;Math&quot;&gt;&lt;a href=&quot;#Math&quot; class=&quot;headerlink&quot; title=&quot;Math:&quot;&gt;&lt;/a&gt;Math:&lt;/h1&gt;&lt;h1 id=&quot;English&quot;&gt;&lt;a href=&quot;#English&quot; class=&quot;headerlink&quot; title=&quot;E</description>
+      <description>&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;h1 id=&quot;Math&quot;&gt;&lt;a href=&quot;#Math&quot; class=&quot;headerlink&quot; title=&quot;Math:&quot;&gt;&lt;/a&gt;Math:&lt;/h1&gt;&lt;h2 id=&quot;笔记：&quot;&gt;&lt;a href=&quot;#笔记：&quot; class=&quot;hea</description>
         
       
       
       
-      <content:encoded><![CDATA[<h1 id="Math"><a href="#Math" class="headerlink" title="Math:"></a>Math:</h1><h1 id="English"><a href="#English" class="headerlink" title="English:"></a>English:</h1>]]></content:encoded>
+      <content:encoded><![CDATA[<span id="more"></span><h1 id="Math"><a href="#Math" class="headerlink" title="Math:"></a>Math:</h1><h2 id="笔记："><a href="#笔记：" class="headerlink" title="笔记："></a><strong>笔记：</strong></h2><h2 id="1-1-1-映射与函数的概念"><a href="#1-1-1-映射与函数的概念" class="headerlink" title="1.1.1 映射与函数的概念"></a>1.1.1 映射与函数的概念</h2><p>值域被包含在y集合内即可，若f(x)&#x3D;Y，成为满射。</p><p>一 一对应成为单射</p><p>满射+单射&#x3D;一 一映射（双射）</p><h2 id="1-1-2-函数的四种特性"><a href="#1-1-2-函数的四种特性" class="headerlink" title="1.1.2 函数的四种特性"></a>1.1.2 函数的四种特性</h2><p>有界、单调、奇偶、周期</p><p>周期函数不一定存在最小正周期，如狄利克雷函数，周期为有理数 </p><pre><code>双曲正弦shx=(e^x-e^-x)/2 双曲正切thx=(e^x-e^-x)/(e^x+e^-x)</code></pre><p>任何函数都可以拆成一个奇函数+一个偶函数</p><pre><code>f(x)=f(x)/2+f(x)/2+f(-x)/2-f(-x)/2    =[f(x)+f(-x)]/2 + [f(x)-f(-x)]/2    =            偶 + 奇</code></pre><h2 id="1-1-3-反函数与复合函数"><a href="#1-1-3-反函数与复合函数" class="headerlink" title="1.1.3 反函数与复合函数"></a>1.1.3 反函数与复合函数</h2><p>反函数&lt;&#x3D;&gt;单射</p><h2 id="1-1-4-初等函数"><a href="#1-1-4-初等函数" class="headerlink" title="1.1.4 初等函数"></a>1.1.4 初等函数</h2><p>分段函数不一定不是初等函数，说白了没有必然的联系。<br>反三角画图可以利用关于y&#x3D;x对称</p><pre><code>y=cotx 一个周期内的图像是x在0到π，y从正无穷减到负无穷。</code></pre><h2 id="测试："><a href="#测试：" class="headerlink" title="测试："></a><strong>测试：</strong></h2><p>第一节挺基础的，没出什么问题，有一个分段函数反函数的题很有意思，差点被坑，记录一下，不能下意识的把y套到x的定义域里，一定要根据求出对应的y的值域，再套进去。</p><hr><h1 id="English"><a href="#English" class="headerlink" title="English:"></a>English:</h1><p>政法：</p><h2 id="1-1"><a href="#1-1" class="headerlink" title="1.1"></a>1.1</h2><pre><code>sovereign 主权独立的，君主reign 统治n.sovereignty 最高统治权 (y，ty，ity)nationnationality 国籍state n.国家，州，状况情况 state of mind 心态      v.陈述，说明 desirable mental state 理想精神状态stated adj. 确定的，说好的，声明的stateless adj. 无国籍的less后缀：变为否定形容词stately adj. 宏大的，高贵的statement n. 陈述，说明，immune system 免疫系统systematic 系统化的 形容词后缀：-ic -al -icalfunction v.正常工作，起作用 n.功能to function as 起...作用a valuable function重要作用federal adj. 联邦的，联邦政府的 FBI Federal Burean Investigationfederation n. 联邦，联盟confederation n.联盟，同盟coalition n.联盟unify v.使统一unifiation n.联合，统一unite v.使团结统一to unite the left and right of the political spectrumspect 看unity n.union n.工会the European Union unionize v. 组织工会，使加入工会commonwealth n.联邦，国家联合体communism n.共产主义community 社会社区capitalism 资本主义liberate v. 解放liberal 自由的，开明人士libertyliberal arts 文科republic n.共和国republican 共和国的，共和政体的，共和主义者democracy 民主democratic 民主的conservative 保守的，守旧的保存保护：reserveconservepreserveConservative Party保守党Labour Party 工党labor 工人doctrine n.信条，学说 == dogmacollective doctrine 共同信条lobby 游说团体，大厅大堂，试图游说</code></pre><hr><h2 id="学习打卡"><a href="#学习打卡" class="headerlink" title="学习打卡"></a>学习打卡</h2><p>从六点开始学的，学到了十点多，因为白天上了一天课，有点累了，学的不太快。</p><p>就今天来感觉的话，数学偏简单，小测没出错，对于简单的章节可以再加快进度。</p><p>相对而言，英语感觉花的时间偏长，尤其是英语的视频，过于冗长，不过单词的视频讲的还可以，语法的视频一般，看的头大。</p><p>此外，建议计划中增加专业课的学习内容，毕竟408东西也蛮多，然后数学的任务可以加大，英语任务少一点。</p>]]></content:encoded>
       
       
       
