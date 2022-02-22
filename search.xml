@@ -24,9 +24,8 @@
   <entry>
     <title>2.22学习总结</title>
     <url>/2022/02/22/2-22%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<span id="more"></span>
-
-<h1 id="Math"><a href="#Math" class="headerlink" title="Math:"></a>Math:</h1><h2 id="笔记："><a href="#笔记：" class="headerlink" title="笔记："></a><strong>笔记：</strong></h2><h2 id="1-1-1-映射与函数的概念"><a href="#1-1-1-映射与函数的概念" class="headerlink" title="1.1.1 映射与函数的概念"></a>1.1.1 映射与函数的概念</h2><p>值域被包含在y集合内即可，若f(x)&#x3D;Y，成为满射。</p>
+    <content><![CDATA[<h1 id="Math"><a href="#Math" class="headerlink" title="Math:"></a>Math:</h1><h2 id="笔记："><a href="#笔记：" class="headerlink" title="笔记："></a><strong>笔记：</strong></h2><h2 id="1-1-1-映射与函数的概念"><a href="#1-1-1-映射与函数的概念" class="headerlink" title="1.1.1 映射与函数的概念"></a>1.1.1 映射与函数的概念</h2><span id="more"></span>
+<p>值域被包含在y集合内即可，若f(x)&#x3D;Y，成为满射。</p>
 <p>一 一对应成为单射</p>
 <p>满射+单射&#x3D;一 一映射（双射）</p>
 <h2 id="1-1-2-函数的四种特性"><a href="#1-1-2-函数的四种特性" class="headerlink" title="1.1.2 函数的四种特性"></a>1.1.2 函数的四种特性</h2><p>有界、单调、奇偶、周期</p>
