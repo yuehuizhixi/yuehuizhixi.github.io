@@ -141,6 +141,16 @@ lobby 游说团体，大厅大堂，试图游说
 <p>1.3的第一题也差点出错，记录一下：</p>
 <pre><code>A(x)&lt;B(x)&lt;C(x), 且lim[C(x)-A(x]=0, 但是要注意此时对函数本身的情况是一无所知的，不要下意识地由夹逼定理联想，实际上A(x),B(x),C(x)的极限都是不一定存在的！
 </code></pre>
+<hr>
+<p>由于任务完成较快，学有余力，要来了新的任务：</p>
+<h1 id="Math-1"><a href="#Math-1" class="headerlink" title="Math"></a>Math</h1><h2 id="笔记-1"><a href="#笔记-1" class="headerlink" title="笔记"></a>笔记</h2><h3 id="1-4无穷小与无穷大"><a href="#1-4无穷小与无穷大" class="headerlink" title="1.4无穷小与无穷大"></a>1.4无穷小与无穷大</h3><p>无穷大：足够大时，一直很大</p>
+<p>无界：可以”震荡”</p>
+<pre><code>如：y=xcosx 无界，但不是无穷大
+</code></pre>
+<h3 id="1-5极限运算法则"><a href="#1-5极限运算法则" class="headerlink" title="1.5极限运算法则"></a>1.5极限运算法则</h3><p>一些运算的前提：注意是极限要存在</p>
+<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>错了一个题，错因是有一个思维上的漏洞，一定要引起重视：</p>
+<pre><code>当a是负数时，扔进根号里边，除了值要平方之外，一定不要忘了前边加上“负号”！！！
+</code></pre>
 ]]></content>
       <tags>
         <tag>study</tag>
