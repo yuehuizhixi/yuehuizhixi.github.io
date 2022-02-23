@@ -9,8 +9,32 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>在不停流动的时间的彼岸，愿我们何时何地都能相遇</description>
-    <pubDate>Tue, 22 Feb 2022 14:18:08 GMT</pubDate>
+    <pubDate>Wed, 23 Feb 2022 08:47:01 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2.23学习总结</title>
+      <link>http://example.com/2022/02/23/2-23%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</link>
+      <guid>http://example.com/2022/02/23/2-23%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</guid>
+      <pubDate>Wed, 23 Feb 2022 07:00:19 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;Math&quot;&gt;&lt;a href=&quot;#Math&quot; class=&quot;headerlink&quot; title=&quot;Math&quot;&gt;&lt;/a&gt;Math&lt;/h1&gt;&lt;h2 id=&quot;笔记&quot;&gt;&lt;a href=&quot;#笔记&quot; class=&quot;headerlink&quot; title=&quot;笔记&quot;&gt;&lt;/a&gt;笔记&lt;/h</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h1><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="1-2-数列的极限"><a href="#1-2-数列的极限" class="headerlink" title="1.2 数列的极限"></a>1.2 数列的极限</h3><p>可以找到一个子数列发散，或者是两个子数列收敛但极限不等，来证明原数列发散；</p><p>可以奇数列偶数列收敛极限相等，来证明收敛。</p><h3 id="1-3-函数的极限"><a href="#1-3-函数的极限" class="headerlink" title="1.3 函数的极限"></a>1.3 函数的极限</h3><p>在x0有极限，则在x0某个去心邻域内一定有界</p><p>取两个数列，极限不相等，来证明函数极限不存在。</p><h2 id="小测："><a href="#小测：" class="headerlink" title="小测："></a>小测：</h2><p>1.2错了一个数列极限等价定义的题，值得思考：</p><pre><code>极限定义等价于：我选为：a的邻域内有无穷项；正解为：a的邻域外仅有有限项；比较思考后，是正解更有道理，所谓收敛的概念，更强调于有限项“在外”，而并非强调无限项在内。如此说来我的选择更像是一个必要条件。</code></pre><p>1.3的第一题也差点出错，记录一下：</p><pre><code>A(x)&lt;B(x)&lt;C(x), 且lim[C(x)-A(x]=0, 但是要注意此时对函数本身的情况是一无所知的，不要下意识地由夹逼定理联想，实际上A(x),B(x),C(x)的极限都是不一定存在的！</code></pre>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/study/">study</category>
+      
+      
+      <comments>http://example.com/2022/02/23/2-23%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2.22学习总结</title>
