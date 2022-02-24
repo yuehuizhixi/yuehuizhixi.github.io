@@ -143,13 +143,43 @@ lobby 游说团体，大厅大堂，试图游说
 </code></pre>
 <hr>
 <p>由于任务完成较快，学有余力，要来了新的任务：</p>
-<h1 id="Math-1"><a href="#Math-1" class="headerlink" title="Math"></a>Math</h1><h2 id="笔记-1"><a href="#笔记-1" class="headerlink" title="笔记"></a>笔记</h2><h3 id="1-4无穷小与无穷大"><a href="#1-4无穷小与无穷大" class="headerlink" title="1.4无穷小与无穷大"></a>1.4无穷小与无穷大</h3><p>无穷大：足够大时，一直很大</p>
+<h2 id="笔记-1"><a href="#笔记-1" class="headerlink" title="笔记"></a>笔记</h2><h3 id="1-4无穷小与无穷大"><a href="#1-4无穷小与无穷大" class="headerlink" title="1.4无穷小与无穷大"></a>1.4无穷小与无穷大</h3><p>无穷大：足够大时，一直很大</p>
 <p>无界：可以”震荡”</p>
 <pre><code>如：y=xcosx 无界，但不是无穷大
 </code></pre>
 <h3 id="1-5极限运算法则"><a href="#1-5极限运算法则" class="headerlink" title="1.5极限运算法则"></a>1.5极限运算法则</h3><p>一些运算的前提：注意是极限要存在</p>
 <h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>错了一个题，错因是有一个思维上的漏洞，一定要引起重视：</p>
 <pre><code>当a是负数时，扔进根号里边，除了值要平方之外，一定不要忘了前边加上“负号”！！！
+</code></pre>
+]]></content>
+      <tags>
+        <tag>study</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2.24学习总结</title>
+    <url>/2022/02/24/2-24%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h1><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="1-6极限存在准则-两个重要极限"><a href="#1-6极限存在准则-两个重要极限" class="headerlink" title="1.6极限存在准则 两个重要极限"></a>1.6极限存在准则 两个重要极限</h3><p>存在准则用的还挺多的，就是单调+有界&#x3D;&gt;极限存在</p>
+<p>对于反三角函数，可以考虑换元进行处理。即：</p>
+<pre><code>u=arctanx
+x=tanu
+</code></pre>
+<p>第二类重要极限简记：右上角是无穷</p>
+<pre><code>对于ln(1+2x),有一种思路是前边配一个2x，然后扔到里边，对真数使用第二类重要极限。
+</code></pre>
+<h3 id="1-7无穷小阶的比较"><a href="#1-7无穷小阶的比较" class="headerlink" title="1.7无穷小阶的比较"></a>1.7无穷小阶的比较</h3><p>注意区分同阶和等价</p>
+<p>x-&gt;0时，常见等价：</p>
+<pre><code>arcsinx~arctanx~x~ln(1+x)
+a^x-1 ~ xlna
+(l+x)^a -1 ~ ax
+</code></pre>
+<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>这两个还蛮重要的，以前没留意过：</p>
+<pre><code>x-tanx ~ (-1/3)x^3
+tanx-sinx ~ (1/2)x^3
+等价无穷小在A*B时也可以用。
+对于ln可以考虑把真数部分变成乘积的形式，然后拆成两个ln相加。
+</code></pre>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><pre><code>今天收获还是蛮大的，有3个之前忽略的点被发现了。之后要好好复习折页笔记，不过也因此拖慢了进度，明天加快进度。
 </code></pre>
 ]]></content>
       <tags>
