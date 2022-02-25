@@ -159,7 +159,8 @@ lobby 游说团体，大厅大堂，试图游说
   <entry>
     <title>2.24学习总结</title>
     <url>/2022/02/24/2-24%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<h1 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h1><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="1-6极限存在准则-两个重要极限"><a href="#1-6极限存在准则-两个重要极限" class="headerlink" title="1.6极限存在准则 两个重要极限"></a>1.6极限存在准则 两个重要极限</h3><p>存在准则用的还挺多的，就是单调+有界&#x3D;&gt;极限存在</p>
+    <content><![CDATA[<h1 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h1><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="1-6极限存在准则-两个重要极限"><a href="#1-6极限存在准则-两个重要极限" class="headerlink" title="1.6极限存在准则 两个重要极限"></a>1.6极限存在准则 两个重要极限</h3><span id="more"></span>
+<p>存在准则用的还挺多的，就是单调+有界&#x3D;&gt;极限存在</p>
 <p>对于反三角函数，可以考虑换元进行处理。即：</p>
 <pre><code>u=arctanx
 x=tanu
@@ -181,6 +182,20 @@ tanx-sinx ~ (1/2)x^3
 </code></pre>
 <h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><pre><code>今天收获还是蛮大的，有3个之前忽略的点被发现了。之后要好好复习折页笔记，不过也因此拖慢了进度，明天加快进度。
 </code></pre>
+]]></content>
+      <tags>
+        <tag>study</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2.25学习总结</title>
+    <url>/2022/02/25/2-25%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h1><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="1-8函数的连续性与间断点"><a href="#1-8函数的连续性与间断点" class="headerlink" title="1.8函数的连续性与间断点"></a>1.8函数的连续性与间断点</h3><pre><code>一：可跳
+二：无荡
+</code></pre>
+<h3 id="1-9连续函数的运算与初等函数的连续性"><a href="#1-9连续函数的运算与初等函数的连续性" class="headerlink" title="1.9连续函数的运算与初等函数的连续性"></a>1.9连续函数的运算与初等函数的连续性</h3><h3 id="1-10闭区间上连续函数的性质"><a href="#1-10闭区间上连续函数的性质" class="headerlink" title="1.10闭区间上连续函数的性质"></a>1.10闭区间上连续函数的性质</h3><p>有界性、最大值最小值、介值定理</p>
+<p>第一章总结：</p>
+<p>感觉没有太难的知识，有些证明题可能不太好想，计算题都还比较简单。</p>
 ]]></content>
       <tags>
         <tag>study</tag>
