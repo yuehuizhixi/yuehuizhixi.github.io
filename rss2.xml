@@ -9,8 +9,31 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>在不停流动的时间的彼岸，愿我们何时何地都能相遇</description>
-    <pubDate>Fri, 25 Feb 2022 12:17:23 GMT</pubDate>
+    <pubDate>Fri, 25 Feb 2022 15:09:18 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2.25高数阶段测试1总结</title>
+      <link>http://example.com/2022/02/25/2-25%E9%AB%98%E6%95%B0%E9%98%B6%E6%AE%B5%E6%B5%8B%E8%AF%951%E6%80%BB%E7%BB%93/</link>
+      <guid>http://example.com/2022/02/25/2-25%E9%AB%98%E6%95%B0%E9%98%B6%E6%AE%B5%E6%B5%8B%E8%AF%951%E6%80%BB%E7%BB%93/</guid>
+      <pubDate>Fri, 25 Feb 2022 15:06:55 GMT</pubDate>
+      
+      <description>&lt;h2 id=&quot;第一章阶段测试-函数极限连续&quot;&gt;&lt;a href=&quot;#第一章阶段测试-函数极限连续&quot; class=&quot;headerlink&quot; title=&quot;第一章阶段测试 函数极限连续&quot;&gt;&lt;/a&gt;第一章阶段测试 函数极限连续&lt;/h2&gt;&lt;h3 id=&quot;作答情况：&quot;&gt;&lt;a href=&quot;#作答情况：&quot; class=&quot;headerlink&quot; title=&quot;作答情况：&quot;&gt;&lt;/a&gt;作答情况：&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;选择填空全对，大题16,17,20出现了问题。给过程分的话，粗略估计83分。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;错因分析：&lt;/p&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="第一章阶段测试-函数极限连续"><a href="#第一章阶段测试-函数极限连续" class="headerlink" title="第一章阶段测试 函数极限连续"></a>第一章阶段测试 函数极限连续</h2><h3 id="作答情况："><a href="#作答情况：" class="headerlink" title="作答情况："></a>作答情况：</h3><pre><code>选择填空全对，大题16,17,20出现了问题。给过程分的话，粗略估计83分。</code></pre><p>错因分析：</p><span id="more"></span><p>16题：</p><pre><code>这个题10分，只能说自己呆了，我觉得扣分狠一些的话，可以一分不给：题型很简单，但是有两个比较大的错误吧：一个是g[f(x)]的f(x)我竟然没有带入？！果然做题时不该三心二意，下次还敢(bushi)仔细反思还有一个原因就是，之前的这种题函数简单，甚至函数值是常数，导致对代入这个环节不敏感。然后就是自变量x的范围也求错了，本来画个草图为了偷懒，结果= =这个题之后好好做两遍，然后类似的题也要注意下、</code></pre><p>17题：</p><pre><code>10分的题，要是严格考试可能会被至少-6分和上一题不同，这个不能算是低级失误，应该引起重视，这个点我确实有疏漏)在计算0+极限时，由于上下都是e的无穷次方，我下意识的认为它们是同阶。实际上一个是1/x,一个是2/x,它们并不是同阶了，我习惯了看x的次幂，就当成了同阶。反思后突然想到，做题时用一个洛必达求一下极限就好了！</code></pre><p>20题：</p><pre><code>10分的题，四种情况的讨论，丢了一个很隐蔽的，感觉会-2~3分这个可去间断点属实没想到，只能说还是想简单了，一般的间断点找出来问题不大但是x=-2这个可去间断点，虽然不难，看到答案能反应过来，但是很难想到不知道有没有什么好的做题技巧来帮我发现它？</code></pre>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/study/">study</category>
+      
+      
+      <comments>http://example.com/2022/02/25/2-25%E9%AB%98%E6%95%B0%E9%98%B6%E6%AE%B5%E6%B5%8B%E8%AF%951%E6%80%BB%E7%BB%93/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2.25学习总结</title>
@@ -18,14 +41,11 @@
       <guid>http://example.com/2022/02/25/2-25%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</guid>
       <pubDate>Fri, 25 Feb 2022 07:57:07 GMT</pubDate>
       
-        
-        
-      <description>&lt;h1 id=&quot;Math&quot;&gt;&lt;a href=&quot;#Math&quot; class=&quot;headerlink&quot; title=&quot;Math&quot;&gt;&lt;/a&gt;Math&lt;/h1&gt;&lt;h2 id=&quot;笔记&quot;&gt;&lt;a href=&quot;#笔记&quot; class=&quot;headerlink&quot; title=&quot;笔记&quot;&gt;&lt;/a&gt;笔记&lt;/h</description>
-        
+      <description>&lt;h1 id=&quot;Math&quot;&gt;&lt;a href=&quot;#Math&quot; class=&quot;headerlink&quot; title=&quot;Math&quot;&gt;&lt;/a&gt;Math&lt;/h1&gt;&lt;h2 id=&quot;笔记&quot;&gt;&lt;a href=&quot;#笔记&quot; class=&quot;headerlink&quot; title=&quot;笔记&quot;&gt;&lt;/a&gt;笔记&lt;/h2&gt;&lt;h3 id=&quot;1-8函数的连续性与间断点&quot;&gt;&lt;a href=&quot;#1-8函数的连续性与间断点&quot; class=&quot;headerlink&quot; title=&quot;1.8函数的连续性与间断点&quot;&gt;&lt;/a&gt;1.8函数的连续性与间断点&lt;/h3&gt;</description>
       
       
       
-      <content:encoded><![CDATA[<h1 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h1><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="1-8函数的连续性与间断点"><a href="#1-8函数的连续性与间断点" class="headerlink" title="1.8函数的连续性与间断点"></a>1.8函数的连续性与间断点</h3><pre><code>一：可跳二：无荡</code></pre><h3 id="1-9连续函数的运算与初等函数的连续性"><a href="#1-9连续函数的运算与初等函数的连续性" class="headerlink" title="1.9连续函数的运算与初等函数的连续性"></a>1.9连续函数的运算与初等函数的连续性</h3><h3 id="1-10闭区间上连续函数的性质"><a href="#1-10闭区间上连续函数的性质" class="headerlink" title="1.10闭区间上连续函数的性质"></a>1.10闭区间上连续函数的性质</h3><p>有界性、最大值最小值、介值定理</p><p>第一章总结：</p><p>感觉没有太难的知识，有些证明题可能不太好想，计算题都还比较简单。</p>]]></content:encoded>
+      <content:encoded><![CDATA[<h1 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h1><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="1-8函数的连续性与间断点"><a href="#1-8函数的连续性与间断点" class="headerlink" title="1.8函数的连续性与间断点"></a>1.8函数的连续性与间断点</h3><span id="more"></span><pre><code>一：可跳二：无荡</code></pre><h3 id="1-9连续函数的运算与初等函数的连续性"><a href="#1-9连续函数的运算与初等函数的连续性" class="headerlink" title="1.9连续函数的运算与初等函数的连续性"></a>1.9连续函数的运算与初等函数的连续性</h3><h3 id="1-10闭区间上连续函数的性质"><a href="#1-10闭区间上连续函数的性质" class="headerlink" title="1.10闭区间上连续函数的性质"></a>1.10闭区间上连续函数的性质</h3><p>有界性、最大值最小值、介值定理</p><p>第一章学习总结：</p><p>感觉没有太难的知识，有些证明题可能不太好想，计算题都还比较简单。</p>]]></content:encoded>
       
       
       
