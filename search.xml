@@ -238,4 +238,51 @@ tanx-sinx ~ (1/2)x^3
         <tag>study</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2.26&amp;&amp;2.27学习总结</title>
+    <url>/2022/02/27/2-26&amp;&amp;2-27%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="2-1导数的概念"><a href="#2-1导数的概念" class="headerlink" title="2.1导数的概念"></a>2.1导数的概念</h3><p>一阶导数&#x3D;0, x0称为驻点，可能产生极值。</p>
+<p>前置切线: 斜率为正无穷</p>
+<p>可导必连续，连续未必可导。</p>
+<p>可导充要条件&lt;&#x3D;&gt;左右导数存在且相等</p>
+<h3 id="2-2函数求导法则"><a href="#2-2函数求导法则" class="headerlink" title="2.2函数求导法则"></a>2.2函数求导法则</h3><pre><code>(tanx)&#39;=sec^2x
+(cotx)&#39;=-csc^2x
+(secx)&#39;=secx*tanx
+(cscx)&#39;=-cscx*cotx
+</code></pre>
+<p>反函数：</p>
+<pre><code>x对y求导 = 1/(y对x求导)
+</code></pre>
+<p>重要：</p>
+<pre><code>f&#39;(2x)表示对2x求导；
+[f(2x)]&#39;表示对x求导。
+</code></pre>
+<h3 id="2-3高阶导数"><a href="#2-3高阶导数" class="headerlink" title="2.3高阶导数"></a>2.3高阶导数</h3><pre><code>(sinx)^n = sin(x+nπ/2)
+(cosx)^n = cos(x+nπ/2)
+</code></pre>
+<p>莱布尼兹公式：类比二项式公式</p>
+<h3 id="2-4隐函数及参数方程求导"><a href="#2-4隐函数及参数方程求导" class="headerlink" title="2.4隐函数及参数方程求导"></a>2.4隐函数及参数方程求导</h3><p>对数求导法：很多式子乘在一起的时候可以考虑！但是留意一下y是否大于0可以直接取ln。</p>
+<pre><code>但是但是！！！不要求完对数忘了求导= =
+</code></pre>
+<p>参数方程：</p>
+<pre><code>一阶导：上下同时对t求导
+二阶导：分子是一阶导对t求导；分母是二阶导对t求导。
+</code></pre>
+<h3 id="2-5-函数的微分"><a href="#2-5-函数的微分" class="headerlink" title="2.5 函数的微分"></a>2.5 函数的微分</h3><pre><code>△y=A△x+o(△x)   y的精确值
+dy=A△x       y的近似值
+dx=△x
+</code></pre>
+<p>可微&lt;&#x3D;&gt;可导，因此导数又叫微商</p>
+<p>近似计算：</p>
+<pre><code>f(x) ≈ f(x0)+f&#39;(x0)(x-x0)
+例如：
+sin29° = sin30°+cos30°*(-1°)
+</code></pre>
+<h2 id="小测"><a href="#小测" class="headerlink" title="小测"></a>小测</h2><pre><code>△y的线性主部位是指dy
+</code></pre>
+]]></content>
+      <tags>
+        <tag>study</tag>
+      </tags>
+  </entry>
 </search>
