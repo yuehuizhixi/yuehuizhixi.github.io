@@ -241,7 +241,8 @@ tanx-sinx ~ (1/2)x^3
   <entry>
     <title>2.26&amp;&amp;2.27学习总结</title>
     <url>/2022/02/27/2-26&amp;&amp;2-27%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="2-1导数的概念"><a href="#2-1导数的概念" class="headerlink" title="2.1导数的概念"></a>2.1导数的概念</h3><p>一阶导数&#x3D;0, x0称为驻点，可能产生极值。</p>
+    <content><![CDATA[<h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="2-1导数的概念"><a href="#2-1导数的概念" class="headerlink" title="2.1导数的概念"></a>2.1导数的概念</h3><span id="more"></span>
+<p>一阶导数&#x3D;0, x0称为驻点，可能产生极值。</p>
 <p>前置切线: 斜率为正无穷</p>
 <p>可导必连续，连续未必可导。</p>
 <p>可导充要条件&lt;&#x3D;&gt;左右导数存在且相等</p>
@@ -280,6 +281,28 @@ sin29° = sin30°+cos30°*(-1°)
 </code></pre>
 <h2 id="小测"><a href="#小测" class="headerlink" title="小测"></a>小测</h2><pre><code>△y的线性主部位是指dy
 </code></pre>
+]]></content>
+      <tags>
+        <tag>study</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3.1学习总结</title>
+    <url>/2022/03/01/3-1%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="第一章第二章小测总结"><a href="#第一章第二章小测总结" class="headerlink" title="第一章第二章小测总结"></a>第一章第二章小测总结</h1><span id="more"></span>
+<ol>
+<li><p>这个很好想，不过别忽视：</p>
+<p> 奇函数的导数是偶函数<br> 偶函数的导数是奇函数</p>
+</li>
+<li><p>这个思维漏洞要引起重视：</p>
+<pre><code> 利用x-&gt;0的等价性质时，
+ 有个分子是：ln((1-x)*cosx)
+ 我下意识的把想cos0就是1，一会儿就没了，干脆就把它省略了
+ 但是注意！！！这个cos是在ln里的啊！不能这么玩！！！
+ 正解应该是拆成 ln(1+x) + lncosx
+</code></pre>
+</li>
+</ol>
 ]]></content>
       <tags>
         <tag>study</tag>
