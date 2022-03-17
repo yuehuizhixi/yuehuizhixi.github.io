@@ -9,8 +9,56 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>在不停流动的时间的彼岸，愿我们何时何地都能相遇</description>
-    <pubDate>Sat, 05 Mar 2022 14:29:31 GMT</pubDate>
+    <pubDate>Thu, 17 Mar 2022 08:10:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>3.14~3.17学习总结</title>
+      <link>http://example.com/2022/03/17/3-14-3-17%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</link>
+      <guid>http://example.com/2022/03/17/3-14-3-17%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</guid>
+      <pubDate>Thu, 17 Mar 2022 04:25:36 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;Math&quot;&gt;&lt;a href=&quot;#Math&quot; class=&quot;headerlink&quot; title=&quot;Math&quot;&gt;&lt;/a&gt;Math&lt;/h1&gt;&lt;h2 id=&quot;笔记&quot;&gt;&lt;a href=&quot;#笔记&quot; class=&quot;headerlink&quot; title=&quot;笔记&quot;&gt;&lt;/a&gt;笔记&lt;/h</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h1><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="5-1定积分的概念与性质"><a href="#5-1定积分的概念与性质" class="headerlink" title="5.1定积分的概念与性质"></a>5.1定积分的概念与性质</h3><pre><code>估值定理：即用max和min</code></pre><h3 id="5-2微积分基本公式"><a href="#5-2微积分基本公式" class="headerlink" title="5.2微积分基本公式"></a>5.2微积分基本公式</h3><pre><code>对积分上限函数：求导就是x代入后边的t</code></pre><h3 id="5-3定积分的换元法和分部积分法"><a href="#5-3定积分的换元法和分部积分法" class="headerlink" title="5.3定积分的换元法和分部积分法"></a>5.3定积分的换元法和分部积分法</h3><pre><code>换元的时候要换换上下限对于积分区间对称的定积分，注意利用函数的奇偶性来化简运算</code></pre><h3 id="5-4反常积分τ函数"><a href="#5-4反常积分τ函数" class="headerlink" title="5.4反常积分τ函数"></a>5.4反常积分τ函数</h3><pre><code>注意发现瑕积分：先用字母表示，然后用趋于无穷的极限来表示当然直接用类似莱布尼兹公式的形式也ok</code></pre>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/study/">study</category>
+      
+      
+      <comments>http://example.com/2022/03/17/3-14-3-17%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>3.7~3.10学习总结</title>
+      <link>http://example.com/2022/03/10/3-7-3-10%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</link>
+      <guid>http://example.com/2022/03/10/3-7-3-10%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</guid>
+      <pubDate>Thu, 10 Mar 2022 04:56:12 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;笔记&quot;&gt;&lt;a href=&quot;#笔记&quot; class=&quot;headerlink&quot; title=&quot;笔记&quot;&gt;&lt;/a&gt;笔记&lt;/h1&gt;&lt;h2 id=&quot;Math&quot;&gt;&lt;a href=&quot;#Math&quot; class=&quot;headerlink&quot; title=&quot;Math&quot;&gt;&lt;/a&gt;Math&lt;/h</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h1><h2 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h2><h3 id="4-1不定积分的概念和性质"><a href="#4-1不定积分的概念和性质" class="headerlink" title="4.1不定积分的概念和性质"></a>4.1不定积分的概念和性质</h3><pre><code>1/x积分 = ln|x|+C</code></pre><h3 id="4-2第一换元积分法"><a href="#4-2第一换元积分法" class="headerlink" title="4.2第一换元积分法"></a>4.2第一换元积分法</h3>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/study/">study</category>
+      
+      
+      <comments>http://example.com/2022/03/10/3-7-3-10%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>3.3~3.6学习总结</title>
@@ -182,50 +230,6 @@
       
       
       <comments>http://example.com/2022/02/22/2-22%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.com/2022/02/12/%E8%AF%95%E6%8E%A2%E6%80%A7%E7%9A%84%E5%86%99%E4%B8%80%E7%AF%87%E6%96%B0%E6%96%87%E7%AB%A0%E4%BE%9B%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8/</link>
-      <guid>http://example.com/2022/02/12/%E8%AF%95%E6%8E%A2%E6%80%A7%E7%9A%84%E5%86%99%E4%B8%80%E7%AF%87%E6%96%B0%E6%96%87%E7%AB%A0%E4%BE%9B%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8/</guid>
-      <pubDate>Sat, 12 Feb 2022 11:51:54 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h1 id=&quot;我是一个测试文件！！！&quot;&gt;&lt;a href=&quot;#我是一个测试文件！！！&quot; class=&quot;headerlink&quot; title=&quot;我是一个测试文件！！！&quot;&gt;&lt;/a&gt;我是一个测试文件！！！&lt;/h1&gt;</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h1 id="我是一个测试文件！！！"><a href="#我是一个测试文件！！！" class="headerlink" title="我是一个测试文件！！！"></a>我是一个测试文件！！！</h1>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2022/02/12/%E8%AF%95%E6%8E%A2%E6%80%A7%E7%9A%84%E5%86%99%E4%B8%80%E7%AF%87%E6%96%B0%E6%96%87%E7%AB%A0%E4%BE%9B%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>追想轮回</title>
-      <link>http://example.com/2022/02/09/%E8%BF%BD%E6%83%B3%E8%BD%AE%E5%9B%9E/</link>
-      <guid>http://example.com/2022/02/09/%E8%BF%BD%E6%83%B3%E8%BD%AE%E5%9B%9E/</guid>
-      <pubDate>Wed, 09 Feb 2022 06:19:51 GMT</pubDate>
-      
-      <description>&lt;pre&gt;&lt;code&gt;遇见你真是太好了
-                         －两个人的旅途
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 id=&quot;深蓝之星&quot;&gt;&lt;a href=&quot;#深蓝之星&quot; class=&quot;headerlink&quot; title=&quot;深蓝之星&quot;&gt;&lt;/a&gt;深蓝之星&lt;/h3&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;28&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;尔后，［她］的身影完全消失了。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;新的世界在这之上开始苏醒。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;正义的伙伴  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;红莲的弓手  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;东方的侠客&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;无头的妖怪&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;不信的信徒&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;黄金的眷属&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;扭曲愿望之人&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;［这里是，哪里］&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;［这里是，地狱］&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;因为......&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;在所有人都得到了幸福的时候&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;只有［你］无法得到幸福&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</description>
-      
-      
-      
-      <content:encoded><![CDATA[<pre><code>遇见你真是太好了                         －两个人的旅途</code></pre><h2 id=""><a href="#" class="headerlink" title=""></a></h2><h3 id="深蓝之星"><a href="#深蓝之星" class="headerlink" title="深蓝之星"></a>深蓝之星</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line">尔后，［她］的身影完全消失了。</span><br><span class="line"></span><br><span class="line">新的世界在这之上开始苏醒。</span><br><span class="line"></span><br><span class="line">正义的伙伴  </span><br><span class="line"></span><br><span class="line">红莲的弓手  </span><br><span class="line"></span><br><span class="line">东方的侠客</span><br><span class="line"></span><br><span class="line">无头的妖怪</span><br><span class="line"></span><br><span class="line">不信的信徒</span><br><span class="line"></span><br><span class="line">黄金的眷属</span><br><span class="line"></span><br><span class="line">扭曲愿望之人</span><br><span class="line"></span><br><span class="line">［这里是，哪里］</span><br><span class="line"></span><br><span class="line">［这里是，地狱］</span><br><span class="line"></span><br><span class="line">因为......</span><br><span class="line"></span><br><span class="line">在所有人都得到了幸福的时候</span><br><span class="line"></span><br><span class="line">只有［你］无法得到幸福</span><br><span class="line"></span><br></pre></td></tr></table></figure><span id="more"></span><h3 id="牺牲的意义"><a href="#牺牲的意义" class="headerlink" title="牺牲的意义"></a>牺牲的意义</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line">那天，黑夜比往常更长久</span><br><span class="line"></span><br><span class="line">昔日的英雄</span><br><span class="line"></span><br><span class="line">成为今日的恶魔</span><br><span class="line"></span><br><span class="line">倒计时停在终末</span><br><span class="line"></span><br><span class="line">你要的未来，就是这个样子吗</span><br><span class="line"></span><br><span class="line">想要得到奇迹的话</span><br><span class="line"></span><br><span class="line">献上祭品</span><br><span class="line"></span><br><span class="line">其之一，与所有伙伴的羁绊</span><br><span class="line"></span><br><span class="line">其之二，曾度过的七天时光</span><br><span class="line"></span><br><span class="line">其之三，对神明的绝对谦卑</span><br><span class="line"></span><br><span class="line">付出足够代价之后</span><br><span class="line"></span><br><span class="line">奇迹自然会降临......</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="箱庭风景"><a href="#箱庭风景" class="headerlink" title="箱庭风景"></a>箱庭风景</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">唱呀</span><br><span class="line"></span><br><span class="line">跳呀</span><br><span class="line"></span><br><span class="line">新鲜的剧目呀</span><br><span class="line"></span><br><span class="line">仅仅这样</span><br><span class="line"></span><br><span class="line">［她］是不会认同的！</span><br><span class="line"></span><br><span class="line">没错</span><br><span class="line"></span><br><span class="line">在所有愿望没有被实现之前</span><br><span class="line"></span><br><span class="line">在这个世界没有得到幸福之前</span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="黑暗中的身影"><a href="#黑暗中的身影" class="headerlink" title="黑暗中的身影"></a>黑暗中的身影</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br></pre></td><td class="code"><pre><span class="line">最初也是最后的神器使露出微笑</span><br><span class="line"></span><br><span class="line">毁灭已经开始了</span><br><span class="line"></span><br><span class="line">弱小如你的人类</span><br><span class="line"></span><br><span class="line">还能做什么？</span><br><span class="line"></span><br><span class="line">你还是，不要小看人类，比较好哦—神明大人</span><br><span class="line"></span><br><span class="line">所谓人类</span><br><span class="line"></span><br><span class="line">所谓人生</span><br><span class="line"></span><br><span class="line">有着无穷的可能性</span><br><span class="line"></span><br><span class="line">无数的选择分裂出无限的结果</span><br><span class="line"></span><br><span class="line">无数的结果再萌发出更多的选择</span><br><span class="line"></span><br><span class="line">其中一定有让大家都幸福的道路</span><br><span class="line"></span><br><span class="line">所以呐...少年...</span><br><span class="line"></span><br><span class="line">谢谢你迄今为止的努力...</span><br><span class="line"></span><br><span class="line">但是...这不是最终的结局...</span><br><span class="line"></span><br><span class="line">你是不能停留在这里的... ...</span><br><span class="line"></span><br><span class="line">拥有着无穷可能性的你，</span><br><span class="line"></span><br><span class="line">身为‘人类’的你</span><br><span class="line"></span><br><span class="line">一定能找到这个世界的真相，阻止终结的到来</span><br><span class="line"></span><br><span class="line">所以，再见吧</span><br><span class="line"></span><br><span class="line">下一次，你一定要... ...</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2022/02/09/%E8%BF%BD%E6%83%B3%E8%BD%AE%E5%9B%9E/#disqus_thread</comments>
       
     </item>
     
