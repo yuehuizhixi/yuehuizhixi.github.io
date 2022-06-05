@@ -495,4 +495,27 @@ select * from information_schema.views where table_name=’ view_name’
         <tag>编译原理</tag>
       </tags>
   </entry>
+  <entry>
+    <title>存储技术</title>
+    <url>/2022/05/27/%E5%AD%98%E5%82%A8%E6%8A%80%E6%9C%AF/</url>
+    <content><![CDATA[<h1 id="存储系统"><a href="#存储系统" class="headerlink" title="存储系统"></a>存储系统</h1><h1 id="信息存储与管理简介"><a href="#信息存储与管理简介" class="headerlink" title="信息存储与管理简介"></a>信息存储与管理简介</h1><p>数据来源及数据体量和规模</p>
+<p>数据对商业的价值</p>
+<p>存储技术与体系结构的演进</p>
+<p>数据中心的核心构成要素</p>
+<p>ILM策略 </p>
+<h2 id="信息存储"><a href="#信息存储" class="headerlink" title="信息存储"></a>信息存储</h2><p>数据和信息怎么定义</p>
+<pre><code>数据由原始素材构成，可推出一些结论
+数据是对所有事物的数字表示
+信息是从数据中推演出的智慧和知识
+</code></pre>
+<p>数据怎么分类</p>
+<pre><code>结构化数据、非结构化数据、半结构化数据
+</code></pre>
+<p>数据处理是人或机器对数据进行的重组或重新排序，以增加其特定的价值。数据处理包括以下基本步骤：输入、处理和输出。这三个步骤构成了数据处理周期。</p>
+<p>信息的重要性</p>
+<p>存储架构和演进</p>
+<pre><code>DAS-JBOD-RAID Array-SAN/NAS： LAN  FC SAN-IP SAN
+</code></pre>
+<h2 id="数据中心基础设施和ILM"><a href="#数据中心基础设施和ILM" class="headerlink" title="数据中心基础设施和ILM"></a>数据中心基础设施和ILM</h2>]]></content>
+  </entry>
 </search>

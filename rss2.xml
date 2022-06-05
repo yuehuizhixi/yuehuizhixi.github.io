@@ -9,8 +9,30 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>在不停流动的时间的彼岸，愿我们何时何地都能相遇</description>
-    <pubDate>Tue, 05 Apr 2022 08:18:24 GMT</pubDate>
+    <pubDate>Fri, 27 May 2022 09:42:57 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>存储技术</title>
+      <link>http://example.com/2022/05/27/%E5%AD%98%E5%82%A8%E6%8A%80%E6%9C%AF/</link>
+      <guid>http://example.com/2022/05/27/%E5%AD%98%E5%82%A8%E6%8A%80%E6%9C%AF/</guid>
+      <pubDate>Fri, 27 May 2022 05:56:53 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;存储系统&quot;&gt;&lt;a href=&quot;#存储系统&quot; class=&quot;headerlink&quot; title=&quot;存储系统&quot;&gt;&lt;/a&gt;存储系统&lt;/h1&gt;&lt;h1 id=&quot;信息存储与管理简介&quot;&gt;&lt;a href=&quot;#信息存储与管理简介&quot; class=&quot;headerlink&quot; title=</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="存储系统"><a href="#存储系统" class="headerlink" title="存储系统"></a>存储系统</h1><h1 id="信息存储与管理简介"><a href="#信息存储与管理简介" class="headerlink" title="信息存储与管理简介"></a>信息存储与管理简介</h1><p>数据来源及数据体量和规模</p><p>数据对商业的价值</p><p>存储技术与体系结构的演进</p><p>数据中心的核心构成要素</p><p>ILM策略 </p><h2 id="信息存储"><a href="#信息存储" class="headerlink" title="信息存储"></a>信息存储</h2><p>数据和信息怎么定义</p><pre><code>数据由原始素材构成，可推出一些结论数据是对所有事物的数字表示信息是从数据中推演出的智慧和知识</code></pre><p>数据怎么分类</p><pre><code>结构化数据、非结构化数据、半结构化数据</code></pre><p>数据处理是人或机器对数据进行的重组或重新排序，以增加其特定的价值。数据处理包括以下基本步骤：输入、处理和输出。这三个步骤构成了数据处理周期。</p><p>信息的重要性</p><p>存储架构和演进</p><pre><code>DAS-JBOD-RAID Array-SAN/NAS： LAN  FC SAN-IP SAN</code></pre><h2 id="数据中心基础设施和ILM"><a href="#数据中心基础设施和ILM" class="headerlink" title="数据中心基础设施和ILM"></a>数据中心基础设施和ILM</h2>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2022/05/27/%E5%AD%98%E5%82%A8%E6%8A%80%E6%9C%AF/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>3.21-4.1学习总结_多元函数</title>
@@ -226,30 +248,6 @@
       
       
       <comments>http://example.com/2022/03/10/3-7-3-10%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>3.3~3.6学习总结</title>
-      <link>http://example.com/2022/03/04/3-3~3-6%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</link>
-      <guid>http://example.com/2022/03/04/3-3~3-6%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</guid>
-      <pubDate>Fri, 04 Mar 2022 04:10:10 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h1 id=&quot;Math&quot;&gt;&lt;a href=&quot;#Math&quot; class=&quot;headerlink&quot; title=&quot;Math&quot;&gt;&lt;/a&gt;Math&lt;/h1&gt;&lt;h2 id=&quot;笔记&quot;&gt;&lt;a href=&quot;#笔记&quot; class=&quot;headerlink&quot; title=&quot;笔记&quot;&gt;&lt;/a&gt;笔记&lt;/h</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h1 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h1><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="3-1-中值定理"><a href="#3-1-中值定理" class="headerlink" title="3.1 中值定理"></a>3.1 中值定理</h3><p>罗尔定理 </p><p>拉格朗日中值定理 </p><p>柯西中值定理</p><h3 id="3-2-洛必达法则"><a href="#3-2-洛必达法则" class="headerlink" title="3.2 洛必达法则"></a>3.2 洛必达法则</h3><pre><code>使用前一定要判断一下是否符合条件且每一次使用之前都要判断！使用洛必达法则后：若为存在或无穷，则洛必达法则成立；但是若极限不存在(无穷除外)，则说明洛必达法则失效！！！</code></pre><h3 id="3-3-泰勒公式"><a href="#3-3-泰勒公式" class="headerlink" title="3.3 泰勒公式"></a>3.3 泰勒公式</h3><pre><code>e^x : 1+e+...sinx : 只有奇数且正负交替 x - ()x^3 +cosx : 只有偶数次且正负交替 1 - ()x^2 +(1+x)^a : 分子部分考虑原始公式来记ln(1+x) : ...</code></pre><h3 id="3-4-函数的单调性和曲线的凹凸性"><a href="#3-4-函数的单调性和曲线的凹凸性" class="headerlink" title="3.4 函数的单调性和曲线的凹凸性"></a>3.4 函数的单调性和曲线的凹凸性</h3><p>单调性：等于0的点只在个别点成立，仍可说是单调。</p><p>正凹负凸：</p><pre><code>拐点不是某一个x值,而是二维平面上的（x0，f(x0))</code></pre><h3 id="3-5-函数的极值与最值"><a href="#3-5-函数的极值与最值" class="headerlink" title="3.5 函数的极值与最值"></a>3.5 函数的极值与最值</h3><p>极值点指的是x值，极值指的是y值。(最值同样)</p><p>极值点一点是驻点和不可导点。</p><h3 id="3-6-图像绘制"><a href="#3-6-图像绘制" class="headerlink" title="3.6 图像绘制"></a>3.6 图像绘制</h3>]]></content:encoded>
-      
-      
-      
-      <category domain="http://example.com/tags/study/">study</category>
-      
-      
-      <comments>http://example.com/2022/03/04/3-3~3-6%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/#disqus_thread</comments>
       
     </item>
     
